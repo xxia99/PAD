@@ -1,0 +1,13 @@
+# Python 3.10 was used for the final GPU experiments.
+#
+# Install PyTorch using the command appropriate for the reviewer machine/CUDA
+# version if the generic entry below does not match the local GPU driver.
+torch>=2.0
+numpy>=1.23
+gym>=0.26
+scipy>=1.9
+pandas>=1.5
+matplotlib>=3.6
+tensorboardX>=2.6
+tqdm>=4.64
+
